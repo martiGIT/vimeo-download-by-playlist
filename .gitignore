@@ -1,3 +1,9 @@
+# Project specific folders
+Downloads/
+bin/
+*.mp4
+*.aac
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
